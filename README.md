@@ -1,4 +1,4 @@
-# Super-Store-Analytics-Dashboard-Power-BI-
+# Super-Store-Analytics-Dashboard-Power-BI
 
 **📊 Title**
 
