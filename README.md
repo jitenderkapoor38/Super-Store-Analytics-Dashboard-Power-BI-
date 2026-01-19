@@ -105,4 +105,4 @@ Returned order percentage has improved compared to the previous year
 Regional analysis highlights states with consistently higher profit margins
 
 **SNAPSHOT OF DASHBOARD**
-
+https://github.com/jitenderkapoor38/Super-Store-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20without%20Filters.jpg
