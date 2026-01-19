@@ -34,8 +34,6 @@ Data Nature: Retail sales transactions
 
 Granularity: Order-level data
 
-Note: The dataset is used strictly for learning and portfolio purposes. No real client or confidential data is included.
-
 **⭐ Features & Highlights**
 
 🔹 Business Problem
@@ -104,8 +102,7 @@ Certain products generate high sales but lower profitability
 
 Returned order percentage has improved compared to the previous year
 
+Regional analysis highlights states with consistently higher profit margins
+
 **SNAPSHOT OF DASHBOARD**
 
-
-
-Regional analysis highlights states with consistently higher profit margins
